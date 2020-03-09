@@ -12,9 +12,9 @@ namespace Calculator
 
             int sum = Calcolo.Sum(a, b);
 
-
             //somma
             Console.WriteLine("{0} + {1} = {2}", a, b, sum);
         }
     }
 }
+ 
